@@ -1,0 +1,55 @@
+ET580 Project 2 Documentation PHASE 2
+-------------------------------------------------------------------------------------------
+
+A. Group Members: Team 2 (Float team)
+
+Lauryn Stanislaus(active), 
+Obed James(inactive phase 2), 
+Eason Dong(active), 
+Soshi Jain (Team lead)(active)
+
+Phase 2 contribution by parts-
+Part 8 - Lauryn Stanislaus
+Part 9 - Eason Dong
+Part 10 - Soshi Jain	
+Part 11- Soshi Jain
+
+
+B. Files : Contributors
+
+1.Shape.h (phase 2 implemented by Lauryn Stanislaus)
+
+2.Shape.cpp ( phase 2 no change required)
+
+3.Triangle.h ( phase 2 implemented by Lauryn Stanislaus)
+
+4.Triangle.cpp ( phase 2 implemented by Eason Dong )
+
+5.Rectangle.h ( phase 2 implemented by Lauryn Stanislaus)
+
+6.Rectangle.cpp ( phase 2 implemented by Eason Dong)
+
+7.Circle.h ( phase 2 implemented by Lauryn Stanislaus)
+
+8.Circle.cpp ( phase 2 implemented by Eason Dong)
+
+9.Point.h ( phase 2 no change required)
+
+10.Point.cpp ( phase 2 no change required)
+
+11.Edge.h ( phase 2 no change required)
+
+12.Edge.cpp ( phase 2 no change required)
+
+13.DynamicArray.h (Soshi Jain phase 2)
+
+14.DynamicArray.cpp (Soshi Jain phase 2)
+
+15.Main.cpp (Soshi Jain phase 2)
+
+16.makefile (Soshi Jain phase 2)
+
+17.p2_report_phase2.txt (Soshi Jain)
+
+C. Program does not run, due to time constraints couldn't fix all issues.
+D. Contribution credit provided in .cpp accordingly.
