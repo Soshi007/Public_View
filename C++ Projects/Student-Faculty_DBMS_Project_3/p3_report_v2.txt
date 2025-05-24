@@ -1,0 +1,29 @@
+ET580 Project Documentation: Project 3
+-------------------------------------------------------------------------------------------
+
+A. Group Members: Team 2 (Float Team)
+
+Active members:
+Soshi Jain (Team lead)(active) Part 3,8,9
+Ongshi Dugar (very active) Part 4,5,7
+Lauryn Stanislaus (active) Part 1,2,6
+
+
+B. Files : Contributors
+1. Person.h- Lauryn Stanislaus
+2. Person.cpp- Lauryn Stanislaus
+3. Student.h- Lauryn Stanislaus
+4. Student.cpp- Lauryn Stanislaus
+5. Faculty.h- Soshi Jain
+6. Faculty.cpp- Soshi Jain
+7. ListNode.h- Ongshi Dugar
+8. ListNode.cpp- Ongshi Dugar
+9. LinkedList.h- Ongshi Dugar, Soshi Jain, Lauryn Stanislaus
+10.LinkedList.cpp- Ongshi Dugar, Soshi Jain, Lauryn Stanislaus
+11.Main.cpp- Soshi Jain 
+12.Makefile- Soshi Jain
+13.Project 3 Documentation Report- Soshi Jain
+
+
+C. Program RUNS with no known issues now, Ongshi and Lauryn took fast action to fix part 6 and 7, . Lauryn also updated class definition of person, name and id are now protected and getter function for id and name are now added.
+the sort functions were working properly with the logic in place, slight object type fixes solved the compile issues that rose after ongshi fixed the insert function data node pointer** issue. 
