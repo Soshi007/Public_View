@@ -1,5 +1,0 @@
-201,Dr.Smith,Mathematics,Professor,80000
-202,Ms.Jones,Physics,Assistant Professor,65000
-203,Mr.Brown,Chemistry,Lecturer,55000
-204,Dr.Lee,Biology,Associate Professor,72000
-205,Prof.Taylor,Computer Science,Dean,95000

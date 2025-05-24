@@ -1,5 +1,0 @@
-101,Alice,Computer Science,3.8
-102,Bob,Mathematics,3.5
-103,Charlie,Physics,2.9
-104,Diana,Biology,4.0
-105,Eve,Chemistry,3.2
