@@ -1,0 +1,39 @@
+ET580 Project Documentation
+
+Instructions:
+A. Write the group number and full names of all active group members.
+B. Write the name of each file and who contributed.
+C. State ALL known problems or incomplete features of the project.
+D. In each .cpp file write a single line comment next to each function stating who contributed.
+-------------------------------------------------------------------------------------------
+
+A. Group Members: Team 2 (Float team)
+
+1.Lauryn Stanislaus(active)
+2.Obed James(active)
+3.Eason Dong(active) 
+4.Soshi Jain (TEAM LEAD)(active)
+
+B. Files : Contributors
+Part 1&2
+1.Shape.h (Lauryn Stanislaus)
+2.Shape.cpp (Lauryn Stanislaus)
+3.Triangle.h (Lauryn Stanislaus)
+4.Triangle.cpp (Lauryn Stanislaus)
+Part 3&4
+5.Rectangle.h (Obed James)
+6.Rectangle.cpp (Obed James)
+7.Circle.h (Obed James)
+8.Circle.cpp (Obed James)
+Part 5&6
+9.Point.h (Eason Dong)
+10.Point.cpp (Eason Dong)
+11.Edge.h (Eason Dong)
+12.Edge.cpp (Eason Dong)
+Part 7
+13.Main.cpp (Soshi Jain)
+14.makefile (Soshi Jain)
+15.p2_report_phase1.txt (Soshi Jain)
+
+C. Program runs with no known issues.
+D. Contribution credit provided in .cpp accordingly.
