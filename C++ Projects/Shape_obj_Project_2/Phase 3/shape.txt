@@ -1,0 +1,7 @@
+6
+Triangle 2 3 (1,2) 60
+Rectangle (4,4) 6 7
+Triangle 3 5 (3,5) 120
+Circle (6,7) 5
+Circle (5,1) 10
+Rectangle (2,2) 4 4

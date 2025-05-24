@@ -1,0 +1,104 @@
+ET580 Project 2 Documentation PHASE 3
+-------------------------------------------------------------------------------------------
+
+A. Group Members: Team 2 (Float team)
+
+Obed James(inactive phase 2,3) 
+Eason Dong (considered inactive due to lack of collaboration, communication and on time work for phase 3) 
+
+Soshi Jain (Team lead)(active)
+Lauryn Stanislaus(very active) 
+
+Phase 3 contribution by members-
+Part 13,14 - Lauryn Stanislaus
+Part 12,15 - Soshi Jain	
+
+Brief description of contributions <active members>
+
+Lauryn Stanislaus { 
+For Part 13, the student wrote the `MaxArea` function in `main.cpp`. This function takes a dynamic array of shapes and goes through each shape to find the one with the largest area. It compares the areas and returns the maximum value found.
+
+For Part 14, the student created a custom `main` function. In this function, the user is prompted to enter the name of a file. The program then uses the `CreateDynamicShapeArray` function to load the shapes from that file. It prints out the details of each shape, finds the one with the largest area using `MaxArea`, and displays it. The program repeats this process until the user types “stop”.
+}
+
+Soshi Jain { 
+For part 12 of the project, I wrote the 'CreateDynamicShapeArray' function in `main.cpp`. It reads shape details from a file—starting with how many shapes there are, then reading each shape's type and its specific data. Depending on whether it's a Triangle, Rectangle, or Circle, the function reads the right values like side lengths, points, angles, or radius. It then creates a dynamic array of `Shape` objects and fills it with this information. This lets the program store and work with different shapes based on what's in the file.
+}
+
+
+Un-used contribution by member-
+Part 14- Eason Dong 
+
+
+B. Files : Contributors
+
+1.Shape.h (unchanged from phase 2)
+
+2.Shape.cpp ( unchanged from phase 2)
+
+3.Triangle.h ( unchanged from phase 2)
+
+4.Triangle.cpp ( unchanged from phase 2)
+
+5.Rectangle.h ( unchanged from phase 2)
+
+6.Rectangle.cpp ( unchanged from phase 2)
+
+7.Circle.h ( unchanged from phase 2)
+
+8.Circle.cpp ( unchanged from phase 2)
+
+9.Point.h ( unchanged from phase 2)
+
+10.Point.cpp (unchanged from phase 2)
+
+11.Edge.h ( unchanged from phase 2)
+
+12.Edge.cpp ( unchanged from phase 2)
+
+13.DynamicArray.h (unchanged from phase 2)
+
+14.DynamicArray.cpp (unchanged from phase 2)
+
+15.Main.cpp (Soshi Jain, Lauryn Stanislaus, Eason Dong(code not used))
+
+16.makefile (unchanged from phase 2)
+
+17.p2_report_phase_3.txt (Soshi Jain)
+
+
+C. Program runs well, no known issues.
+
+Team member issue-
+Eason Dong (He committed part 14 at about 7.30 pm 05/05/2025, I have sent him an email at 12.30 pm 05/05/2025 asking for update but he did not reply. At 4 pm i have decided to ask Lauryn to help out with part 14 as she did it partially already while doing part 13, she said she'll help (which she did) so based on that i started to complete my part and move on to part 15)
+
+(All team member received the same email for phase 3 by me soshi jain, i made very clear requests as follows-
+
+Email sent by Team lead to all members (05/01/2025 7.15 pm),
+
+Phase 3 is due May 5th 2025, Monday by 11:59 pm. 
+- Please do all respective work, for execution and bug fixes by 05/04 Sunday 6 pm, so there is enough time for feedback and response between team members. 
+- Please make all final changes by 05/05 Monday evening 6 pm for submission.
+
+Couple of things I would like to talk about-->
+
+//Things that need to be improved from phase 2,
+!!!Pease review the implementation requirements. The project description is for all 3 phases of the project.
+Please do all work in the GitHub repository SP25_ET580_p1_float/Project 2/Phase 3 
+Please communicate and respond to emails, it is very difficult to make progress without adequate communication.
+
+//Things that need to be followed strictly,
+Implementation requirements are a must !!! 🙂
+In this case if multiple people are working on the same file, please comment your name accordingly on the lines you wrote or any changes made.
+Please commit changes with description!!.
+
+//Things to do before we jump into phase 3,
+I am in the process of uploading all phase 2 files in phase 3 folder so all implementations can be done directly. 
+Review phase 3 pdf files, there are 4 parts--> part 12,13,14,15 please pick 1 part each and make a choice asap by tomorrow   05/02 nighttime. 
+
+~Please communicate if anything, let's get this done!
+
+//Eason decided to be negligent on all requests and collaborative efforts, he let me know he will do part 14 05/03/2025 Sat 12.33 pm which is a bit later than expected but it was okay since he had time to do his work by Sunday night or even by Monday morning for all members to see and do collaborative changes !!! :( 
+// He did the same exact thing for phase 1 & 2 but i made the best out of it and accepted to implement his code hours before submission. Hence, incomplete program was submitted for phase 2
+
+D. Contribution credit provided in .cpp accordingly.
